@@ -1,35 +1,41 @@
 # Elevate-Lab-Task2
 Data Visualizations and Storytelling
 
-1️.  KPI Cards:
-This dashboard starts with KPI Cards that show our main business numbers.
-We have 9M total price, 10M total cost, 8M total profit, and 268K total quantity.
-These KPIs help us quickly understand the company’s performance.
+1. Start With the Big Picture – KPI Cards
+Chart Used: KPI Cards (Total Price, Total Quantity, Total Cost, Total Revenue, Total Profit)
+My dashboard begins with KPI Cards that quickly tell the overall business performance.
+We can see the Total Price = 9M, Total Quantity = 268K, Total Cost = 10M, Total Revenue = 9M, and Total Profit = 8M.
+These KPIs help us understand the company’s financial health in just one.
 
-2️.Profit by Month – Pie Chart:
-The Pie Chart for Profit by Month shows which months give the highest profit.
-Months like January, March, and May show higher profit, while June and July show lower profit.
-This helps us identify seasonal trends and plan marketing activities better.
+ 2. Show Seasonal Trends – Profit by Month
+Chart Used: Pie Chart (Profit by Month)
+The Pie Chart helps us understand how profit is distributed across months.
+Months like January, March, and May have higher profit, while June and July have lower profit.
+This chart tells a story of seasonal performance and helps in planning marketing campaigns.
 
-3.Total Profit by State – Bar Chart:
-The Bar Chart for Total Profit by State shows where our business performs best.
-States like California and England have the highest profit, while some states show lower values.
-This tells us which regions are strong markets and where improvement is needed.
+ 3. Highlight Geographic Performance – Profit by State
+Chart Used: Bar Chart (Total Profit by State)
+The Bar Chart clearly shows which states contribute most to our profit.
+California and England are top-performing states, while others show lesser profit.
+This helps us identify strong markets and where additional support is needed.
 
-4.Total Profit by Product Category – Column Chart:
-The Column Chart for Profit by Product Category shows the performance of each product type.
-Categories like Chairs and Bookcases generate the most profit, while others generate less.
-This helps us understand which products are successful and where we need new strategies.
+4. Compare Products – Profit by Product Category
+Chart Used: Column Chart (Total Profit by Product Category)
+The Column Chart compares different product categories.
+Categories like Chairs and Bookcases generate the highest profit, while others perform less.
+This helps the business decide which products to promote or redesign.
 
-5.Total Cost, Profit and Revenue by Month – Clustered Column Chart:
-The Clustered Column Chart compares Revenue, Cost, and Profit month-by-month.
+ 5. Explore Financial Trends Over Time – Cost, Revenue & Profit
+Chart Used: Clustered Column Chart (Total Cost, Total Profit, Total Revenue by Month)
+The Clustered Column Chart shows the relationship between Cost, Revenue, and Profit every month.
 We can see how revenue increases or decreases each month, how cost changes, and how profit is impacted.
 This chart helps us understand financial trends clearly.
 
-6.Total Revenue by Country – Pie Chart:
-The Pie Chart for Revenue by Country shows which countries contribute most to revenue.
-The United States has the largest share, followed by Australia, Germany, and France.
-This helps the company identify its strongest international markets.
+6. Highlight Global Insights – Revenue by Country
+Chart Used: Pie Chart (Total Revenue by Country)
+The Pie Chart for Revenue by Country shows the contribution from different regions.
+The United States gives the highest revenue, followed by Australia, Germany, and France.
+This helps the company understand where international performance is strongest.
 
 
 
