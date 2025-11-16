@@ -33,7 +33,4 @@ This helps the company identify its strongest international markets.
 
 
 
-The Clustered Column Chart helps us compare revenue, cost, and profit month-wise.
-Finally, the Revenue by Country Pie Chart tells us which countries contribute most to our sales.
-Overall, the dashboard helps us understand business performance and where we can grow.”
 
