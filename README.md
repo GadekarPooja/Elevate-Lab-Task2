@@ -6,7 +6,7 @@ This dashboard starts with KPI Cards that show our main business numbers.
 We have 9M total price, 10M total cost, 8M total profit, and 268K total quantity.
 These KPIs help us quickly understand the company’s performance.
 
-2️⃣ Profit by Month – Pie Chart:
+2️.Profit by Month – Pie Chart:
 The Pie Chart for Profit by Month shows which months give the highest profit.
 Months like January, March, and May show higher profit, while June and July show lower profit.
 This helps us identify seasonal trends and plan marketing activities better.
